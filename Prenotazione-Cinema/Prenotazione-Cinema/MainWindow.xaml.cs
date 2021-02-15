@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -23,6 +24,14 @@ namespace Prenotazione_Cinema
         public MainWindow()
         {
             InitializeComponent();
+            el1.Fill = System.Windows.Media.Brushes.Green;
+            el2.Fill = System.Windows.Media.Brushes.Green;
+            el3.Fill = System.Windows.Media.Brushes.Green;
+            el4.Fill = System.Windows.Media.Brushes.Green;
+            el5.Fill = System.Windows.Media.Brushes.Green;
+            el6.Fill = System.Windows.Media.Brushes.Green;
+            el7.Fill = System.Windows.Media.Brushes.Green;
+            el8.Fill = System.Windows.Media.Brushes.Green;
         }
     }
 }

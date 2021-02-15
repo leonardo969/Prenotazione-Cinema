@@ -23,6 +23,7 @@ namespace Prenotazione_Cinema
         public MainWindow()
         {
             InitializeComponent();
+            int i = 0;
         }
     }
 }

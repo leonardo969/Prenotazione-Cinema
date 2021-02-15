@@ -1,0 +1,15 @@
+C:\Users\Standard\Desktop\Prenotazione-Cinema\Prenotazione-Cinema\Prenotazione-Cinema\bin\Debug\Prenotazione-Cinema.exe.config
+C:\Users\Standard\Desktop\Prenotazione-Cinema\Prenotazione-Cinema\Prenotazione-Cinema\bin\Debug\Prenotazione-Cinema.exe
+C:\Users\Standard\Desktop\Prenotazione-Cinema\Prenotazione-Cinema\Prenotazione-Cinema\bin\Debug\Prenotazione-Cinema.pdb
+C:\Users\Standard\Desktop\Prenotazione-Cinema\Prenotazione-Cinema\Prenotazione-Cinema\obj\Debug\Prenotazione-Cinema.csprojAssemblyReference.cache
+C:\Users\Standard\Desktop\Prenotazione-Cinema\Prenotazione-Cinema\Prenotazione-Cinema\obj\Debug\MainWindow.g.cs
+C:\Users\Standard\Desktop\Prenotazione-Cinema\Prenotazione-Cinema\Prenotazione-Cinema\obj\Debug\App.g.cs
+C:\Users\Standard\Desktop\Prenotazione-Cinema\Prenotazione-Cinema\Prenotazione-Cinema\obj\Debug\Prenotazione-Cinema_MarkupCompile.cache
+C:\Users\Standard\Desktop\Prenotazione-Cinema\Prenotazione-Cinema\Prenotazione-Cinema\obj\Debug\Prenotazione-Cinema_MarkupCompile.lref
+C:\Users\Standard\Desktop\Prenotazione-Cinema\Prenotazione-Cinema\Prenotazione-Cinema\obj\Debug\MainWindow.baml
+C:\Users\Standard\Desktop\Prenotazione-Cinema\Prenotazione-Cinema\Prenotazione-Cinema\obj\Debug\Prenotazione-Cinema.g.resources
+C:\Users\Standard\Desktop\Prenotazione-Cinema\Prenotazione-Cinema\Prenotazione-Cinema\obj\Debug\Prenotazione_Cinema.Properties.Resources.resources
+C:\Users\Standard\Desktop\Prenotazione-Cinema\Prenotazione-Cinema\Prenotazione-Cinema\obj\Debug\Prenotazione-Cinema.csproj.GenerateResource.cache
+C:\Users\Standard\Desktop\Prenotazione-Cinema\Prenotazione-Cinema\Prenotazione-Cinema\obj\Debug\Prenotazione-Cinema.csproj.CoreCompileInputs.cache
+C:\Users\Standard\Desktop\Prenotazione-Cinema\Prenotazione-Cinema\Prenotazione-Cinema\obj\Debug\Prenotazione-Cinema.exe
+C:\Users\Standard\Desktop\Prenotazione-Cinema\Prenotazione-Cinema\Prenotazione-Cinema\obj\Debug\Prenotazione-Cinema.pdb

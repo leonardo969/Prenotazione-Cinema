@@ -94,5 +94,17 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="cinema.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="prenotazioni.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="prenotazioni2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="posto.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -6,5 +6,20 @@
         xmlns:local="clr-namespace:Prenotazione_Cinema"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid/>
+    <Grid>
+        <Image HorizontalAlignment="Left" Height="410" Margin="80,10,0,0" Source="cinema.jpg" VerticalAlignment="Top" Width="647"/>
+        <Image HorizontalAlignment="Left" Height="302" Margin="10,54,0,0" Source="prenotazioni.png" VerticalAlignment="Top" Width="65"/>
+        <Image HorizontalAlignment="Left" Height="302" Margin="727,54,0,0" Source="prenotazioni.png" VerticalAlignment="Top" Width="65"/>
+        <Image HorizontalAlignment="Left" Height="101" Margin="269,54,0,0" Source="posto.png" VerticalAlignment="Top" Width="274"/>
+        <Button x:Name="button1" Content="P1" HorizontalAlignment="Left" Margin="104,203,0,0" VerticalAlignment="Top" Width="87" Height="50" Click="Button_Click"/>
+        <Button x:Name="button2" Content="P2" HorizontalAlignment="Left" Margin="232,203,0,0" VerticalAlignment="Top" Width="87" Height="50"/>
+        <Button x:Name="button3" Content="P3" HorizontalAlignment="Left" Margin="361,203,0,0" VerticalAlignment="Top" Width="87" Height="50"/>
+        <Button x:Name="button4" Content="P4" HorizontalAlignment="Left" Margin="499,203,0,0" VerticalAlignment="Top" Width="87" Height="50"/>
+        <Button x:Name="button5" Content="P5" HorizontalAlignment="Left" Margin="622,203,0,0" VerticalAlignment="Top" Width="87" Height="50" Click="Button_Click"/>
+        <Button x:Name="button6" Content="P6" HorizontalAlignment="Left" Margin="104,306,0,0" VerticalAlignment="Top" Width="87" Height="50"/>
+        <Button x:Name="button7" Content="P7" HorizontalAlignment="Left" Margin="232,306,0,0" VerticalAlignment="Top" Width="87" Height="50"/>
+        <Button x:Name="button8" Content="P8" HorizontalAlignment="Left" Margin="361,306,0,0" VerticalAlignment="Top" Width="87" Height="50"/>
+        <Button x:Name="button9" Content="P9" HorizontalAlignment="Left" Margin="499,306,0,0" VerticalAlignment="Top" Width="87" Height="50"/>
+        <Button x:Name="button10" Content="P10" HorizontalAlignment="Left" Margin="622,306,0,0" VerticalAlignment="Top" Width="87" Height="50" Click="Button_Click"/>
+    </Grid>
 </Window>

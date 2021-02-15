@@ -33,5 +33,18 @@ namespace Prenotazione_Cinema
             el7.Fill = System.Windows.Media.Brushes.Green;
             el8.Fill = System.Windows.Media.Brushes.Green;
         }
+
+        private void btnSvuota_Click(object sender, RoutedEventArgs e)
+        {
+            el1.Fill = System.Windows.Media.Brushes.Green;
+            el2.Fill = System.Windows.Media.Brushes.Green;
+            el3.Fill = System.Windows.Media.Brushes.Green;
+            el4.Fill = System.Windows.Media.Brushes.Green;
+            el5.Fill = System.Windows.Media.Brushes.Green;
+            el6.Fill = System.Windows.Media.Brushes.Green;
+            el7.Fill = System.Windows.Media.Brushes.Green;
+            el8.Fill = System.Windows.Media.Brushes.Green;
+        }
+
     }
 }

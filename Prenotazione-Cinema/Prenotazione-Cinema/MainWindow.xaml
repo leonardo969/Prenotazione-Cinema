@@ -19,13 +19,13 @@
         <Ellipse x:Name="el6" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="81" Margin="269,275,0,0" Stroke="Black" VerticalAlignment="Top" Width="100"/>
         <Ellipse x:Name="el7" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="81" Margin="421,275,0,0" Stroke="Black" VerticalAlignment="Top" Width="100"/>
         <Ellipse x:Name="el8" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="81" Margin="569,275,0,0" Stroke="Black" VerticalAlignment="Top" Width="100"/>
-        <Label Content="P1" HorizontalAlignment="Left" Margin="158,207,0,0" VerticalAlignment="Top" Width="34"/>
-        <Label Content="P2" HorizontalAlignment="Left" Margin="309,207,0,0" VerticalAlignment="Top" Width="36"/>
-        <Label Content="P3" HorizontalAlignment="Left" Margin="463,207,0,0" VerticalAlignment="Top" Width="34"/>
+        <Label Content="P1" HorizontalAlignment="Left" Margin="156,207,0,0" VerticalAlignment="Top" Width="34"/>
+        <Label Content="P2" HorizontalAlignment="Left" Margin="306,207,0,0" VerticalAlignment="Top" Width="36"/>
+        <Label Content="P3" HorizontalAlignment="Left" Margin="458,207,0,0" VerticalAlignment="Top" Width="44"/>
         <Label Content="P4" HorizontalAlignment="Left" Margin="606,207,0,0" VerticalAlignment="Top" Width="32"/>
-        <Label Content="P5" HorizontalAlignment="Left" Margin="158,300,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.8,0.533" Width="34"/>
-        <Label Content="P6" HorizontalAlignment="Left" Margin="309,300,0,0" VerticalAlignment="Top" Width="36"/>
-        <Label Content="P7" HorizontalAlignment="Left" Margin="463,300,0,0" VerticalAlignment="Top" Width="34"/>
+        <Label Content="P5" HorizontalAlignment="Left" Margin="156,300,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.8,0.533" Width="34"/>
+        <Label Content="P6" HorizontalAlignment="Left" Margin="306,300,0,0" VerticalAlignment="Top" Width="36"/>
+        <Label Content="P7" HorizontalAlignment="Left" Margin="458,300,0,0" VerticalAlignment="Top" Width="34"/>
         <Label Content="P8" HorizontalAlignment="Left" Margin="606,300,0,0" VerticalAlignment="Top" Width="32"/>
         <Button x:Name="btnSvuota" Content="Svuota il cinema" HorizontalAlignment="Left" Margin="629,377,0,0" VerticalAlignment="Top" Width="98" Height="33" Click="btnSvuota_Click"/>
         <Button x:Name="btn1" Content="CASSA 1 &#xD;&#xA;Prenota " HorizontalAlignment="Left" Margin="100,25,0,0" VerticalAlignment="Top" Width="120" Height="57" Click="btn1_Click"/>
